@@ -63,11 +63,9 @@ Once I had secured the devices themselves, I moved on to setting up a secure way
 
 3. Finally, I setup a subdomain hostname override in the local DNS settings. This allowed the monitoring app, when connected to my WiFi, to connect to the cameras via the LAN, and not via the internet (saving a ton of data usage on my cell phone plan):
 
-   _(Note: I've used a generic domain name here in my example.)_
-
    ```
    config dnsmasq
-        option some-private-domain.com
+        option robotozon.com
    ```
 
    ```
