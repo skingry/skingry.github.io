@@ -19,5 +19,5 @@ Examples of some of the stuff I like to do:
 
 This blog is a chronical of some of the times I did stuff. Sometimes doing that stuff went well, sometimes it didn't, hopefully you enjoy reading about it either way.
 
-If you're a recruiter that stumbled across this blog and think I might be a good fit for a position you're trying to fill, take a look at the post I have about my [resume](https://skingry.github.io/notes/my-resume).
+If you're a recruiter that stumbled across this blog and think I might be a good fit for a position you're trying to fill, take a look at the post I have about my [resume](https://skingry.github.io/posts/my-resume).
 

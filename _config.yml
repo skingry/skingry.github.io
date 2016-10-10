@@ -1,5 +1,5 @@
 # Site Info
-title:              "Boom, explosions."
+title:              "Seth Kingry - Boom, explosions."
 description:        "A blog where I talk about the stuff that I do."
 google_verify:      s0p5u9NxSxvEMtuoguTJ9PwLFlm65D7C7ieG1S_ClOM
 google_analytics:   UA-85394727-1
@@ -12,7 +12,7 @@ twitter_username:   skingry
 
 # Site Settings
 baseurl:            ""
-permalink:          /notes/:title
+permalink:          /posts/:title
 timezone:           America/New_York
 
 # Site Build
