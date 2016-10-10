@@ -3,7 +3,7 @@ title: DIY Nanny Camera
 updated: 2016-10-08 09:00
 ---
 
-My wife and I had a need for a couple of nanny cameras/video baby monitors around the house.  She wanted one so she could check in on the kid she nanny's during the day while he napped, and I wanted one so I check in on our three dogs while I was away from the house.  We both wanted something that wouldn't break the bank either. 
+My wife and I had a need for a couple of nanny cameras/video baby monitors around the house.  She wanted one so she could check in on the kid she nannies during the day while he napped, and I wanted one so I check in on our three dogs while I was away from the house.  We both wanted something that wouldn't break the bank either. 
 
 First I looked at getting a purpose built device like this [one](https://www.amazon.com/Motorola-MBP36S-Wireless-Monitor-3-5-Inch/dp/B00M2F0OYS?th=1) but didn't like how much it costs (I'd need to buy two) and how it wasn't an open platform (the device only works locally, so there'd be no way to access the video feed on a tablet, smartphone, or remotely). I could have gone with a [Nest Dropcam](https://nest.com/camera/meet-nest-cam/), but again the price is prohibitive (2x factor) and it relies on a third-party service to view the camera feed.  Nest products relay their data streams via their infrastructure... so if Nest folds or discontinues a product ([which has happened in the past](http://fortune.com/2016/04/06/nest-meager-response-google-revolv/)), your access to the data coming from that product is removed and you're left with a paperweight.
 
